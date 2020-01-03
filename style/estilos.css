@@ -1,0 +1,74 @@
+ul {
+  float: left;
+  position: relative;
+  left: 70%;
+  padding: 0px;
+}
+
+.etiquete_li {
+  float: left;
+  position: relative;
+  right: 200%;
+  list-style: none;
+  padding-left: 20px;
+  background: blueviolet;
+  padding: 20px 20px;
+}
+
+.etiqueta_li_bis {
+  float: left;
+  position: relative;
+  right: 120%;
+  list-style: none;
+  padding: 20px 20px;
+  color: crimson;
+}
+
+.container {
+  border: 2px solid gainsboro;
+  padding: 50px 50px;
+  width: 20%;
+}
+
+.container input,
+textarea {
+  margin-top: 10px;
+}
+
+#boton {
+  cursor: pointer;
+}
+
+#cabecera {
+  color: blue;
+  background: magenta;
+  width: 45%;
+}
+
+#cabecera:hover {
+  background: burlywood;
+  color: rebeccapurple;
+  width: 45%;
+  padding-left: 20px;
+}
+
+body {
+  background: url(../images/imagenLibro.jpg);
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+h1 {
+  color: black;
+}
+
+p,
+h2 {
+  color: azure;
+}
+
+.caja {
+  color: black;
+}
